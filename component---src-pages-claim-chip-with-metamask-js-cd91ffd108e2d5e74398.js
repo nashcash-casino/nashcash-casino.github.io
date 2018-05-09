@@ -1,0 +1,2 @@
+webpackJsonp([0x74f5639d7462],{314:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(2),u=a(n),c=l(80),f=l(40),r=a(f);t.default=function(){return u.default.createElement(r.default,null,u.default.createElement(c.Helmet,null,u.default.createElement("link",{rel:"canonical",href:"https://nashcash.casino/claim-chip/metamask"})),u.default.createElement("h1",null,"Metamask"))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-claim-chip-with-metamask-js-cd91ffd108e2d5e74398.js.map

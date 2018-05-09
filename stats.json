@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-claim-chip-js": [
-      "component---src-pages-claim-chip-js-9f4bfa1c8e07e53ae4df.js",
-      "component---src-pages-claim-chip-js-9f4bfa1c8e07e53ae4df.js.map"
+      "component---src-pages-claim-chip-js-4345544e0958dfb69d43.js",
+      "component---src-pages-claim-chip-js-4345544e0958dfb69d43.js.map"
     ],
     "component---src-pages-games-js": [
-      "component---src-pages-games-js-a674192e47581dac335e.js",
-      "component---src-pages-games-js-a674192e47581dac335e.js.map"
+      "component---src-pages-games-js-ce12e3132eb8e476ba8a.js",
+      "component---src-pages-games-js-ce12e3132eb8e476ba8a.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-30436ed40b0b388e8513.js",
-      "component---src-pages-index-js-30436ed40b0b388e8513.js.map"
+      "component---src-pages-index-js-a70b8026a0ea5b90f3bf.js",
+      "component---src-pages-index-js-a70b8026a0ea5b90f3bf.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -20,25 +20,41 @@
       "component---src-layouts-index-js-d7df2072029cc3c32711.js",
       "component---src-layouts-index-js-d7df2072029cc3c32711.js.map"
     ],
+    "component---src-pages-claim-chip-with-metamask-js": [
+      "component---src-pages-claim-chip-with-metamask-js-cd91ffd108e2d5e74398.js",
+      "component---src-pages-claim-chip-with-metamask-js-cd91ffd108e2d5e74398.js.map"
+    ],
     "component---src-pages-team-js": [
-      "component---src-pages-team-js-62eec369ff94c2af2199.js",
-      "component---src-pages-team-js-62eec369ff94c2af2199.js.map"
+      "component---src-pages-team-js-a0ef55b7655b15b305b1.js",
+      "component---src-pages-team-js-a0ef55b7655b15b305b1.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-274877063fcd482d6fa1.js",
-      "commons-274877063fcd482d6fa1.js.map"
+      "commons-8b7bbad4e5933e74e73e.js",
+      "commons-8b7bbad4e5933e74e73e.js.map"
+    ],
+    "path---claim-chip-manually": [
+      "path---claim-chip-manually-a0e39f21c11f6a62c5ab.js",
+      "path---claim-chip-manually-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---team": [
       "path---team-a0e39f21c11f6a62c5ab.js",
       "path---team-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---claim-chip-with-metamask": [
+      "path---claim-chip-with-metamask-a0e39f21c11f6a62c5ab.js",
+      "path---claim-chip-with-metamask-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-d87f0b10a3b320d1951e.js",
-      "app-d87f0b10a3b320d1951e.js.map"
+      "app-1bc0f61fcd7eb1f64149.js",
+      "app-1bc0f61fcd7eb1f64149.js.map"
+    ],
+    "component---src-pages-claim-chip-manually-js": [
+      "component---src-pages-claim-chip-manually-js-80b88d8958d7195a8f0f.js",
+      "component---src-pages-claim-chip-manually-js-80b88d8958d7195a8f0f.js.map"
     ],
     "path---claim-chip": [
       "path---claim-chip-a0e39f21c11f6a62c5ab.js",
